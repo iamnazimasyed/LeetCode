@@ -28,4 +28,8 @@
 |  |
 | ------- |
 | [1929-concatenation-of-array](https://github.com/iamnazimasyed/LeetCode/tree/master/1929-concatenation-of-array) |
+## Database
+|  |
+| ------- |
+| [0175-combine-two-tables](https://github.com/iamnazimasyed/LeetCode/tree/master/0175-combine-two-tables) |
 <!---LeetCode Topics End-->
