@@ -32,4 +32,8 @@
 |  |
 | ------- |
 | [0175-combine-two-tables](https://github.com/iamnazimasyed/LeetCode/tree/master/0175-combine-two-tables) |
+## Math
+|  |
+| ------- |
+| [2520-count-the-digits-that-divide-a-number](https://github.com/iamnazimasyed/LeetCode/tree/master/2520-count-the-digits-that-divide-a-number) |
 <!---LeetCode Topics End-->
