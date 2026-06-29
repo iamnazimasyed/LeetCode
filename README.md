@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/iamnazimasyed/LeetCode/tree/master/0001-two-sum) |
+| [0004-median-of-two-sorted-arrays](https://github.com/iamnazimasyed/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0169-majority-element](https://github.com/iamnazimasyed/LeetCode/tree/master/0169-majority-element) |
 | [1929-concatenation-of-array](https://github.com/iamnazimasyed/LeetCode/tree/master/1929-concatenation-of-array) |
 ## Hash Table
@@ -15,6 +16,7 @@
 ## Divide and Conquer
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/iamnazimasyed/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0169-majority-element](https://github.com/iamnazimasyed/LeetCode/tree/master/0169-majority-element) |
 ## Sorting
 |  |
@@ -48,4 +50,8 @@
 | ------- |
 | [0344-reverse-string](https://github.com/iamnazimasyed/LeetCode/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/iamnazimasyed/LeetCode/tree/master/0345-reverse-vowels-of-a-string) |
+## Binary Search
+|  |
+| ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/iamnazimasyed/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
 <!---LeetCode Topics End-->
