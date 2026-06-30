@@ -39,6 +39,7 @@
 | ------- |
 | [0007-reverse-integer](https://github.com/iamnazimasyed/LeetCode/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/iamnazimasyed/LeetCode/tree/master/0009-palindrome-number) |
+| [0509-fibonacci-number](https://github.com/iamnazimasyed/LeetCode/tree/master/0509-fibonacci-number) |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/iamnazimasyed/LeetCode/tree/master/2520-count-the-digits-that-divide-a-number) |
 ## Two Pointers
 |  |
@@ -55,4 +56,16 @@
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/iamnazimasyed/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/iamnazimasyed/LeetCode/tree/master/0509-fibonacci-number) |
+## Recursion
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/iamnazimasyed/LeetCode/tree/master/0509-fibonacci-number) |
+## Memoization
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/iamnazimasyed/LeetCode/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
