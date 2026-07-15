@@ -3,14 +3,10 @@ class Solution:
         x = 0
         for i in range(len(operations)):
             temp = operations[i]
-            if temp == "X--":
+            if temp == "X--" or temp == "--X":
                 x = x - 1
-            if temp == "--X":
-                x = x - 1
-            if temp == "X++":
+            if temp == "X++" or temp == "++X":
                 x = x + 1
-            if temp == "++X":
-                x =  x + 1
         return x
         
     
