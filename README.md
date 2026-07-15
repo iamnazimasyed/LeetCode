@@ -14,6 +14,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/iamnazimasyed/LeetCode/tree/master/0001-two-sum) |
 | [0169-majority-element](https://github.com/iamnazimasyed/LeetCode/tree/master/0169-majority-element) |
+| [0771-jewels-and-stones](https://github.com/iamnazimasyed/LeetCode/tree/master/0771-jewels-and-stones) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -54,6 +55,7 @@
 | [0058-length-of-last-word](https://github.com/iamnazimasyed/LeetCode/tree/master/0058-length-of-last-word) |
 | [0344-reverse-string](https://github.com/iamnazimasyed/LeetCode/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/iamnazimasyed/LeetCode/tree/master/0345-reverse-vowels-of-a-string) |
+| [0771-jewels-and-stones](https://github.com/iamnazimasyed/LeetCode/tree/master/0771-jewels-and-stones) |
 | [1108-defanging-an-ip-address](https://github.com/iamnazimasyed/LeetCode/tree/master/1108-defanging-an-ip-address) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/iamnazimasyed/LeetCode/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [3110-score-of-a-string](https://github.com/iamnazimasyed/LeetCode/tree/master/3110-score-of-a-string) |
