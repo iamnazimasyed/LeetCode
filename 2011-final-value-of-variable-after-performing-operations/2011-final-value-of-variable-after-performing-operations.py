@@ -5,7 +5,7 @@ class Solution:
             temp = operations[i]
             if temp == "X--" or temp == "--X":
                 x = x - 1
-            if temp == "X++" or temp == "++X":
+            else:
                 x = x + 1
         return x
         
