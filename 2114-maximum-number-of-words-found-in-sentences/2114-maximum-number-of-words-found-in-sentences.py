@@ -1,4 +1,11 @@
 class Solution:
     def mostWordsFound(self, sentences: List[str]) -> int:
-        return max(sentence.count(' ') for sentence in sentences) + 1
+        count = 0
+        for i in sentences:
+            res = len(i.split())
+            if res > count:
+                count = res
+        return count 
+        
+        
         
