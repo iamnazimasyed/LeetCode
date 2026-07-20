@@ -49,12 +49,14 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/iamnazimasyed/LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0344-reverse-string](https://github.com/iamnazimasyed/LeetCode/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/iamnazimasyed/LeetCode/tree/master/0345-reverse-vowels-of-a-string) |
 ## String
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/iamnazimasyed/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0005-longest-palindromic-substring](https://github.com/iamnazimasyed/LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0058-length-of-last-word](https://github.com/iamnazimasyed/LeetCode/tree/master/0058-length-of-last-word) |
 | [0344-reverse-string](https://github.com/iamnazimasyed/LeetCode/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/iamnazimasyed/LeetCode/tree/master/0345-reverse-vowels-of-a-string) |
@@ -70,6 +72,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/iamnazimasyed/LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0509-fibonacci-number](https://github.com/iamnazimasyed/LeetCode/tree/master/0509-fibonacci-number) |
 ## Recursion
 |  |
