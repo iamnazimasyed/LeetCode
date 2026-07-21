@@ -8,4 +8,3 @@ class Solution:
                     #Okay, I found one more jewel." Adding 1 increments your running total by exactly one.
                     #f you wrote ans = ans + 2, the program would count each jewel as two, giving you an incorrect total of 6
         return ans
-        
