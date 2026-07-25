@@ -44,6 +44,7 @@
 | ------- |
 | [0007-reverse-integer](https://github.com/iamnazimasyed/LeetCode/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/iamnazimasyed/LeetCode/tree/master/0009-palindrome-number) |
+| [0050-powx-n](https://github.com/iamnazimasyed/LeetCode/tree/master/0050-powx-n) |
 | [0509-fibonacci-number](https://github.com/iamnazimasyed/LeetCode/tree/master/0509-fibonacci-number) |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/iamnazimasyed/LeetCode/tree/master/2520-count-the-digits-that-divide-a-number) |
 ## Two Pointers
@@ -77,6 +78,7 @@
 ## Recursion
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/iamnazimasyed/LeetCode/tree/master/0050-powx-n) |
 | [0509-fibonacci-number](https://github.com/iamnazimasyed/LeetCode/tree/master/0509-fibonacci-number) |
 ## Memoization
 |  |
