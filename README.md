@@ -7,6 +7,7 @@
 | [0001-two-sum](https://github.com/iamnazimasyed/LeetCode/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/iamnazimasyed/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0169-majority-element](https://github.com/iamnazimasyed/LeetCode/tree/master/0169-majority-element) |
+| [0704-binary-search](https://github.com/iamnazimasyed/LeetCode/tree/master/0704-binary-search) |
 | [1929-concatenation-of-array](https://github.com/iamnazimasyed/LeetCode/tree/master/1929-concatenation-of-array) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/iamnazimasyed/LeetCode/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/iamnazimasyed/LeetCode/tree/master/2114-maximum-number-of-words-found-in-sentences) |
@@ -70,6 +71,7 @@
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/iamnazimasyed/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
+| [0704-binary-search](https://github.com/iamnazimasyed/LeetCode/tree/master/0704-binary-search) |
 ## Dynamic Programming
 |  |
 | ------- |
