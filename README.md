@@ -47,6 +47,7 @@
 | [0009-palindrome-number](https://github.com/iamnazimasyed/LeetCode/tree/master/0009-palindrome-number) |
 | [0050-powx-n](https://github.com/iamnazimasyed/LeetCode/tree/master/0050-powx-n) |
 | [0509-fibonacci-number](https://github.com/iamnazimasyed/LeetCode/tree/master/0509-fibonacci-number) |
+| [2235-add-two-integers](https://github.com/iamnazimasyed/LeetCode/tree/master/2235-add-two-integers) |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/iamnazimasyed/LeetCode/tree/master/2520-count-the-digits-that-divide-a-number) |
 ## Two Pointers
 |  |
