@@ -8,6 +8,7 @@
 | [0004-median-of-two-sorted-arrays](https://github.com/iamnazimasyed/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0169-majority-element](https://github.com/iamnazimasyed/LeetCode/tree/master/0169-majority-element) |
 | [0704-binary-search](https://github.com/iamnazimasyed/LeetCode/tree/master/0704-binary-search) |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/iamnazimasyed/LeetCode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1480-running-sum-of-1d-array](https://github.com/iamnazimasyed/LeetCode/tree/master/1480-running-sum-of-1d-array) |
 | [1929-concatenation-of-array](https://github.com/iamnazimasyed/LeetCode/tree/master/1929-concatenation-of-array) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/iamnazimasyed/LeetCode/tree/master/2011-final-value-of-variable-after-performing-operations) |
@@ -50,6 +51,7 @@
 | [0050-powx-n](https://github.com/iamnazimasyed/LeetCode/tree/master/0050-powx-n) |
 | [0412-fizz-buzz](https://github.com/iamnazimasyed/LeetCode/tree/master/0412-fizz-buzz) |
 | [0509-fibonacci-number](https://github.com/iamnazimasyed/LeetCode/tree/master/0509-fibonacci-number) |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/iamnazimasyed/LeetCode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [2235-add-two-integers](https://github.com/iamnazimasyed/LeetCode/tree/master/2235-add-two-integers) |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/iamnazimasyed/LeetCode/tree/master/2520-count-the-digits-that-divide-a-number) |
 ## Two Pointers
