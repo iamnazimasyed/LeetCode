@@ -9,6 +9,7 @@
 | [0169-majority-element](https://github.com/iamnazimasyed/LeetCode/tree/master/0169-majority-element) |
 | [0283-move-zeroes](https://github.com/iamnazimasyed/LeetCode/tree/master/0283-move-zeroes) |
 | [0704-binary-search](https://github.com/iamnazimasyed/LeetCode/tree/master/0704-binary-search) |
+| [0977-squares-of-a-sorted-array](https://github.com/iamnazimasyed/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/iamnazimasyed/LeetCode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1480-running-sum-of-1d-array](https://github.com/iamnazimasyed/LeetCode/tree/master/1480-running-sum-of-1d-array) |
 | [1929-concatenation-of-array](https://github.com/iamnazimasyed/LeetCode/tree/master/1929-concatenation-of-array) |
@@ -30,6 +31,7 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/iamnazimasyed/LeetCode/tree/master/0169-majority-element) |
+| [0977-squares-of-a-sorted-array](https://github.com/iamnazimasyed/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
 ## Counting
 |  |
 | ------- |
@@ -63,6 +65,7 @@
 | [0283-move-zeroes](https://github.com/iamnazimasyed/LeetCode/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/iamnazimasyed/LeetCode/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/iamnazimasyed/LeetCode/tree/master/0345-reverse-vowels-of-a-string) |
+| [0977-squares-of-a-sorted-array](https://github.com/iamnazimasyed/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
 ## String
 |  |
 | ------- |
