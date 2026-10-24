@@ -6,6 +6,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/iamnazimasyed/LeetCode/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/iamnazimasyed/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/iamnazimasyed/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0169-majority-element](https://github.com/iamnazimasyed/LeetCode/tree/master/0169-majority-element) |
 | [0283-move-zeroes](https://github.com/iamnazimasyed/LeetCode/tree/master/0283-move-zeroes) |
 | [0704-binary-search](https://github.com/iamnazimasyed/LeetCode/tree/master/0704-binary-search) |
@@ -89,6 +90,7 @@
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/iamnazimasyed/LeetCode/tree/master/0005-longest-palindromic-substring) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/iamnazimasyed/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0509-fibonacci-number](https://github.com/iamnazimasyed/LeetCode/tree/master/0509-fibonacci-number) |
 ## Recursion
 |  |
