@@ -63,6 +63,7 @@
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/iamnazimasyed/LeetCode/tree/master/0005-longest-palindromic-substring) |
+| [0125-valid-palindrome](https://github.com/iamnazimasyed/LeetCode/tree/master/0125-valid-palindrome) |
 | [0283-move-zeroes](https://github.com/iamnazimasyed/LeetCode/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/iamnazimasyed/LeetCode/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/iamnazimasyed/LeetCode/tree/master/0345-reverse-vowels-of-a-string) |
@@ -73,6 +74,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/iamnazimasyed/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0005-longest-palindromic-substring](https://github.com/iamnazimasyed/LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0058-length-of-last-word](https://github.com/iamnazimasyed/LeetCode/tree/master/0058-length-of-last-word) |
+| [0125-valid-palindrome](https://github.com/iamnazimasyed/LeetCode/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/iamnazimasyed/LeetCode/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/iamnazimasyed/LeetCode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0412-fizz-buzz](https://github.com/iamnazimasyed/LeetCode/tree/master/0412-fizz-buzz) |
