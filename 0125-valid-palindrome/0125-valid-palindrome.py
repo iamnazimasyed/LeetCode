@@ -5,7 +5,7 @@ class Solution:
         for ch in s:
             if ch.isalnum():
                 result += ch.lower()
-            rev = result[::-1]
+        rev = result[::-1]
         if rev == result:
             return True
         else:
