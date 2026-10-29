@@ -11,5 +11,6 @@ class Solution:
             if colors[i] != colors[0]:
                 temp = i 
                 ans = max(ans, temp)  
+                break
         return ans
                 
