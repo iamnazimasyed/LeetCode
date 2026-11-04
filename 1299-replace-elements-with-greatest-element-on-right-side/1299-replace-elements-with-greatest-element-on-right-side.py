@@ -1,14 +1,13 @@
 class Solution:
     def replaceElements(self, arr: list[int]) -> list[int]:
         n = len(arr)
-        ans = []
-        maxval = -1
+        rmax = -1
 
         for i in range(n-1, -1, -1):
-            ans.append(maxval)
-            maxval = max(maxval, arr[i])
+            temp = arr[i] 
+            arr[i] = rmax
+            rmax = max(rmax, temp)
+        return arr
 
-        ans.reverse()
-        return ans
 
                         
